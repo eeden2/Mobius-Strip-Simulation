@@ -5,7 +5,7 @@ __This was a short Visualization of a Mobius Strip through the parametric equati
 
 __Universtiy of California at San Diego in their__
 
-__"Math 31CH: M¨obius Strip" lecture.__
+__"Math 31CH: Möbius strip" lecture.__
 
 
 https://mathweb.ucsd.edu/~jeggers/math31ch/mobius_strip.pdf
@@ -15,13 +15,13 @@ https://mathweb.ucsd.edu/~jeggers/math31ch/mobius_strip.pdf
 As per the paper,
 
 
-__x = cos(θ)[2 + t cos(θ/2)]**
+**_x = cos(θ)[2 + t cos(θ/2)]__**
 
 
-__y = sin(θ)[2 + t cos(θ/2)]**
+**_y = sin(θ)[2 + t cos(θ/2)]_**
 
 
-__z = tsin(θ/2)**
+**_z = tsin(θ/2)_**
 
 
 with the independent variables, p(θ,t).
