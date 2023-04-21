@@ -1,11 +1,11 @@
-### Mobius_Strip
+##### Mobius_Strip
 
-#This was a short Visualization of a Mobius Strip through the parametric equations via the 
+###This was a short Visualization of a Mobius Strip through the parametric equations via the 
 
 
-#Universtiy of California at San Diego in their 
+###Universtiy of California at San Diego in their 
 
-#"Math 31CH: M¨obius Strip" lecture.
+###"Math 31CH: M¨obius Strip" lecture.
 
 
 https://mathweb.ucsd.edu/~jeggers/math31ch/mobius_strip.pdf
