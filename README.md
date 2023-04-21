@@ -4,7 +4,7 @@ This was a short Visualization of a Mobius Strip through the parametric equation
 Universtiy of California at San Diego in their "Math 31CH: M¨obius Strip" lecture.
 https://mathweb.ucsd.edu/~jeggers/math31ch/mobius_strip.pdf
 
-![linux-amd64/Assets/PitcureOne.png]
+![linux-amd64/Assets/PictureOne.png](https://github.com/eeden2/Mobius_Strip/blob/be917c7584d3d9f99b3337e26bb8cf7e04b1f848/linux-amd64/Assets/PictureOne.png)
 
 As per the paper,
 x = cos(θ)[2 + t cos(θ/2)]
