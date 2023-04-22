@@ -41,5 +41,7 @@ Ensure the JDK>=17.0.
 
 __For Linux:__
 Navigate to "~/**Mobius-Strip-Simulation**/**linux-amd64**/".
+
 Run in Terminal:
+
 "**./Mobius_Strip.sh**" as Root
